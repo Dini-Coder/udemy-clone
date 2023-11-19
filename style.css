@@ -157,6 +157,15 @@ body {
     margin: 5px;
 
 }
+.course-card h3 {
+    font-size: 17px;
+}
+
+.course-card p {
+    font-size: 17px;
+    margin-top: 1px;
+}
+
 
 .course-card img {
     width: 100%;
@@ -239,7 +248,7 @@ body {
 
     .navbar__s4 {
         display: block;
-        
+
     }
 
 }
